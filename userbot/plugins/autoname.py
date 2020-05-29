@@ -29,7 +29,11 @@ async def _(event):
 
         HM = time.strftime("%H:%M")
 
+<<<<<<< HEAD
         name = f"~ LYON ~ {HM} {DM} by ✅ FRIDAY BOT"
+=======
+        name = f"LYON [MY] {HM} {DM} ✅ FRIDAY BOT "
+>>>>>>> 3ca223fa11bab5b57fd2a7df4ce01d8aa83dc29f
 
         logger.info(name)
 
@@ -56,7 +60,6 @@ async def _(event):
             # await borg.send_message(  # pylint:disable=E0602
 
             #     Config.PRIVATE_GROUP_BOT_API_ID,  # pylint:disable=E0602
-
             #     "Successfully Changed Profile Name"
 
             # )
