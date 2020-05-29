@@ -16,9 +16,9 @@ async def amireallyalive(alive):
     await alive.edit("**MY STATUS** \n`FRIDAY: ` **✅ Alive**\n\n"
                      f"`My Boss`: {DEFAULTUSER}\n\n"
                      "`Telethon version:` **6.0.9**\n`Python:` **3.7.4**\n"
-                     "`Database Status:` **ALL NORMAL!WORKING FINE 🙂**\n\n`Always with you, my Boss!!\n`"
+                     "`Database Status:` **ALL NORMAL! WORKING FINE 🙂**\n\n`Always be with you, Boss!!\n`"
                      "**Satellite Name:** 🛰️HEROKUSAT-2🛰️\n"
                      "**Satellite Signal Strength:** 92 Db\n"
-                     "**Satellite Staus:** ✅ Alive\n\n"
+                     "**Satellite Status:** ✅ Alive\n\n"
                      "     [❤️Deploy FRIDAY❤️](https://github.com/StarkGang/FRIDAYUserbot)") 
 

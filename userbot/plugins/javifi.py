@@ -42,7 +42,7 @@ async def _(event):
               await borg.send_file(event.chat_id, audio, caption="**CREDITS : Dr.jr Genesis**\n`Check out` [FRIDAY](https://github.com/midhunkm1294-bit/friday)")
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("**Error:** `unblock` @Mariodevs `and retry!`")
+              await event.edit("**Error:** `unblock` Lyonipiece `and retry!`")
     elif sysarg == "--h":
       async with borg.conversation(bot) as conv:
           try:
@@ -53,7 +53,7 @@ async def _(event):
               await borg.send_file(event.chat_id, audio, caption="**Dr.Bot Is Here To Help**\n`Check out` [FRIDAY](https://github.com/midhunkm1294-bit/friday)")
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("**Error:** `unblock` @Mariodevs `and retry!`")
+              await event.edit("**Error:** `unblock` Lyonipiece `and retry!`")
     elif sysarg == "npic":
       async with borg.conversation(bot) as conv:
           try:
@@ -75,7 +75,7 @@ async def _(event):
               await borg.send_file(event.chat_id, audio, caption="**CREDITS : Dr.Pure Indian Lover**\n`Check out` [FRIDAY](https://github.com/midhunkm1294-bit/friday)")
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("**Error:** `unblock` @Mariodevs `and retry!`")
+              await event.edit("**Error:** `unblock` Lyonipiece `and retry!`")
     elif sysarg == "ib":
       async with borg.conversation(bot) as conv:
           try:
@@ -86,7 +86,7 @@ async def _(event):
               await borg.send_file(event.chat_id, audio, caption="**CREDITS : Dr.BlueDevil**\n`Check out` [FRIDAY](https://github.com/midhunkm1294-bit/friday)")
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("**Error:** `unblock` @mariodevs `and retry!`")
+              await event.edit("**Error:** `unblock` Lyonipiece `and retry!`")
     elif sysarg == "acc":
       async with borg.conversation(bot) as conv:
           try:
@@ -97,7 +97,7 @@ async def _(event):
               await borg.send_file(event.chat_id, audio)
               await event.delete()
           except YouBlockedUserError:
-              await event.edit("**Error:** `unblock` @mariodevs `and retry!`")
+              await event.edit("**Error:** `unblock` Lyonipiece `and retry!`")
     else:
       await brog.send_message(event.chat_id, "**INVALID** -- FOR HELP COMMAND IS **.jav --h**")
       await event.delete()

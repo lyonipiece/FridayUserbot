@@ -1,6 +1,6 @@
 {
   "name": "FRIDAY",
-  "description": "Userbot created by a @Mariodevs and join https://t.me/fridaySupportOfficial for any problems or support",
+  "description": "Userbot created by a Lyonipiece and join https://t.me/fridaySupportOfficial for any problems or support",
   "logo": "https://telegra.ph/file/399567fd5e92fdcd433ad.jpg",
     "keywords": [
     "telegram",
@@ -23,7 +23,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @Mariodevs.",
+      "description": "Fill your Full name or Username like Lyonipiece.",
       "value": ""
     },
     "APP_ID": {
