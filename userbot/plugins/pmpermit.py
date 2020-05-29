@@ -12,15 +12,15 @@ PREV_REPLY_MESSAGE = {}
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-USER_BOT_WARN_ZERO = "`Anda telah 'spam' ke Inbox Tuan saya!!! Mohon maaf kerana saya, VBot (Virtual Robot) terpaksa hentikan anda sekarang sebelum kebenaran dari Tuan saya diperolehi. Sila dapatkan kebenaran dari Tuan saya terlebih dahulu.` "
-USER_BOT_NO_WARN = ("[┏━━┓┏━━┓┏━━┓┏━━┓ ┏┓ \n ┃┏━┛┗┓┏┛┃┏┓┃┃┏┓┃ ┃┃ \n ┃┗━┓ ┃┃ ┃┃┃┃┃┗┛┃ ┃┃ \n ┗━┓┃ ┃┃ ┃┃┃┃┃┏━┛ ┗┛ \n ┏━┛┃ ┃┃ ┃┗┛┃┃┃   ┏┓ \n ┗━━┛ ┗┛ ┗━━┛┗┛   ┗┛](https://github.com/StarkGang/FridayUserbot)\n\n"
-                    "`Hello, ini adalah `**Automated Reply From My Master Userbot ⚡Friday⚡.**\n"
-                    "**Saya di cipta oleh PROFESSIONAL... I Found Your Way Through "
+USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded application has been blocked by my master's userbot.` "
+USER_BOT_NO_WARN = ("[┏━━┓┏━━┓┏━━┓┏━━┓ ┏┓ \n┃┏━┛┗┓┏┛┃┏┓┃┃┏┓┃ ┃┃ \n┃┗━┓ ┃┃ ┃┃┃┃┃┗┛┃ ┃┃ \n┗━┓┃ ┃┃ ┃┃┃┃┃┏━┛ ┗┛ \n┏━┛┃ ┃┃ ┃┗┛┃┃┃   ┏┓ \n┗━━┛ ┗┛ ┗━━┛┗┛   ┗┛](https://github.com/StarkGang/FridayUserbot)\n\n"
+                    "`Hello, This Is An` **Automated Reply From My Master Userbot ⚡Friday⚡.**\n"
+                    "**I Am Made By A Pro, I Found Ur Way Through "
                     f"{DEFAULTUSER}'s inbox**.\n\n"
                     "`⚡My Satellite is⚡ :` **🛰️HEROKUSAT-2🛰️**\n\n"
-                    "`Kami telah mengenalpasti bahawa Tuan telah memasuki Inbox Tuan saya:` **Tresspassing detected!!! by 🛰️HEROKUSAT-2🛰️ Note: This Satellite Is Powerful Be Careful**\n\n"
-                    "**This trespassing identified as an illegal activity 😡!**\n\n"
-                    "** Sila tinggalkan pesanan dibawah ini atau tindakan lanjut akan diambil. `/start`")
+                    "`We Have Found That You Were Trespassing To My Masters Inbox :` **We Found That Through 🛰️HEROKUSAT-2🛰️ Note: This Satellite Is Powerful Be Careful**\n\n"
+                    "**This Is Regarded As Trespassing And A Illegal Activity😡!**\n\n"
+                     "**So Send `/start` To Start A Valid Conversation Or Get Killed In Cross Firing.")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
