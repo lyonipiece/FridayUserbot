@@ -29,7 +29,7 @@ async def _(event):
 
         HM = time.strftime("%H:%M")
 
-        name = f"{HM} LYON [🇮🇳] FRIDAY BOT ✅{DM}"
+        name = f"LYON [MY] {HM} {DM} ✅ FRIDAY BOT "
 
         logger.info(name)
 
